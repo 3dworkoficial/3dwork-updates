@@ -68,7 +68,7 @@ APP_VERSION = "1.0"
 
 # URL do arquivo que informa a versão mais recente publicada (GitHub raw).
 # Troque "SEU_USUARIO/SEU_REPO" pelo seu repositório quando publicar.
-UPDATE_INFO_URL = "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/versao.json"
+UPDATE_INFO_URL = "https://raw.githubusercontent.com/3dworkoficial/3dwork-updates/main/versao.json"
 
 CONFIG_PATH = Path(__file__).with_name("printers.json")
 
