@@ -1,6 +1,6 @@
 {
-  "versao": "1.3",
-  "notas": "Nova página de Orçamentos com geração de PDF",
+  "versao": "1.5",
+  "notas": "Novo logo 3DWORK no login e no painel",
   "url_arquivo": "https://raw.githubusercontent.com/3dworkoficial/3dwork-updates/main/bambu_dashboard.py",
   "obrigatoria": false
 }
