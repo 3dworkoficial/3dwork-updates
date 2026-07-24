@@ -1,6 +1,6 @@
 {
-  "versao": "1.6",
-  "notas": "Impressoras Bambu agora podem ser adicionadas pelo IP, com teste de conexão",
+  "versao": "1.7",
+  "notas": "Impressoras Bambu pelo IP e proteção contra atualização incorreta",
   "url_arquivo": "https://raw.githubusercontent.com/3dworkoficial/3dwork-updates/main/bambu_dashboard.py",
   "obrigatoria": false
 }
