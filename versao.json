@@ -1,0 +1,6 @@
+{
+  "versao": "1.8",
+  "notas": "Busca automatica de impressoras Bambu na rede local",
+  "url_arquivo": "https://raw.githubusercontent.com/3dworkoficial/3dwork-updates/main/bambu_dashboard.py",
+  "obrigatoria": false
+}
