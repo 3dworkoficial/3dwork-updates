@@ -1,6 +1,6 @@
 {
-  "versao": "1.8",
-  "notas": "Busca automatica de impressoras Bambu na rede local",
+  "versao": "2.3",
+  "notas": "Licenca com validade em meses e protecao contra cair sozinha",
   "url_arquivo": "https://raw.githubusercontent.com/3dworkoficial/3dwork-updates/main/bambu_dashboard.py",
   "obrigatoria": false
 }
