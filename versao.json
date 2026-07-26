@@ -1,6 +1,6 @@
 {
-  "versao": "3.5",
-  "notas": "Corrige o travamento na tela de atualizacao automatica",
+  "versao": "3.6",
+  "notas": "Ajuste nos tamanhos dos campos do orcamento",
   "url_arquivo": "https://raw.githubusercontent.com/3dworkoficial/3dwork-updates/main/bambu_dashboard.py",
   "obrigatoria": false
 }
