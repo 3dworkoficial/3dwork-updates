@@ -1,6 +1,6 @@
 {
-  "versao": "3.8",
-  "notas": "Botoes de pausar e cancelar mais discretos",
+  "versao": "3.9",
+  "notas": "Reinicio automatico corrigido para quando o sistema roda escondido",
   "url_arquivo": "https://raw.githubusercontent.com/3dworkoficial/3dwork-updates/main/bambu_dashboard.py",
   "obrigatoria": false
 }
