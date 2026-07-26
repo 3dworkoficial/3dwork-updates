@@ -1,6 +1,6 @@
 {
-  "versao": "2.3",
-  "notas": "Licenca com validade em meses e protecao contra cair sozinha",
+  "versao": "2.9",
+  "notas": "Acesso remoto com endereco fixo e ativacao automatica",
   "url_arquivo": "https://raw.githubusercontent.com/3dworkoficial/3dwork-updates/main/bambu_dashboard.py",
   "obrigatoria": false
 }
