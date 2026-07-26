@@ -1,6 +1,6 @@
 {
-  "versao": "3.9",
-  "notas": "Reinicio automatico corrigido para quando o sistema roda escondido",
+  "versao": "4.0",
+  "notas": "Atualizacao avisa para fechar e abrir, sem reinicio automatico",
   "url_arquivo": "https://raw.githubusercontent.com/3dworkoficial/3dwork-updates/main/bambu_dashboard.py",
   "obrigatoria": false
 }
