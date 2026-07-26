@@ -1,6 +1,6 @@
 {
-  "versao": "3.0",
-  "notas": "Atualizacao automatica: o sistema reinicia sozinho na versao nova",
+  "versao": "3.4",
+  "notas": "Calculadora sem o botao de puxar tempo de impressao",
   "url_arquivo": "https://raw.githubusercontent.com/3dworkoficial/3dwork-updates/main/bambu_dashboard.py",
   "obrigatoria": false
 }
