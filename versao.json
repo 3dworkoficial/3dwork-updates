@@ -1,6 +1,6 @@
 {
-  "versao": "4.1",
-  "notas": "Ao atualizar, basta reiniciar o computador",
+  "versao": "4.3",
+  "notas": "Mensagem de parabens ao concluir a atualizacao",
   "url_arquivo": "https://raw.githubusercontent.com/3dworkoficial/3dwork-updates/main/bambu_dashboard.py",
   "obrigatoria": false
 }
