@@ -1,6 +1,6 @@
 {
-  "versao": "4.4",
-  "notas": "Contador Imprimindo agora corrigido",
+  "versao": "4.7",
+  "notas": "Tela de orcamentos repaginada: mais legivel e confortavel",
   "url_arquivo": "https://raw.githubusercontent.com/3dworkoficial/3dwork-updates/main/bambu_dashboard.py",
   "obrigatoria": false
 }
