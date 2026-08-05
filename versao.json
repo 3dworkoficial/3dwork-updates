@@ -1,6 +1,6 @@
 {
-  "versao": "5.0",
-  "notas": "Camera nao abre mais a janela preta do ffmpeg",
+  "versao": "5.3",
+  "notas": "Ignora o erro fantasma 0x500C011 da Bambu",
   "url_arquivo": "https://raw.githubusercontent.com/3dworkoficial/3dwork-updates/main/bambu_dashboard.py",
   "obrigatoria": false
 }
