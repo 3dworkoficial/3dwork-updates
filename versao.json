@@ -1,6 +1,6 @@
 {
-  "versao": "4.7",
-  "notas": "Tela de orcamentos repaginada: mais legivel e confortavel",
+  "versao": "5.0",
+  "notas": "Camera nao abre mais a janela preta do ffmpeg",
   "url_arquivo": "https://raw.githubusercontent.com/3dworkoficial/3dwork-updates/main/bambu_dashboard.py",
   "obrigatoria": false
 }
