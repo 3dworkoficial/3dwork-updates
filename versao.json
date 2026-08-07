@@ -1,6 +1,6 @@
 {
-  "versao": "5.3",
-  "notas": "Ignora o erro fantasma 0x500C011 da Bambu",
+  "versao": "5.5",
+  "notas": "Novo logo do FarmSync",
   "url_arquivo": "https://raw.githubusercontent.com/3dworkoficial/3dwork-updates/main/bambu_dashboard.py",
   "obrigatoria": false
 }
