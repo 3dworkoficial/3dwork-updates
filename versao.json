@@ -1,6 +1,6 @@
 {
-  "versao": "5.5",
-  "notas": "Novo logo do FarmSync",
+  "versao": "5.7",
+  "notas": "Flashforge: busca automatica na rede ou por IP",
   "url_arquivo": "https://raw.githubusercontent.com/3dworkoficial/3dwork-updates/main/bambu_dashboard.py",
   "obrigatoria": false
 }
