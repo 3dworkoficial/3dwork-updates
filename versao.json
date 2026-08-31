@@ -1,5 +1,5 @@
 {
-  "versao": "5.16",
+  "versao": "5.17",
   "notas": "Flashforge: busca automatica na rede ou por IP",
   "url_arquivo": "https://raw.githubusercontent.com/3dworkoficial/3dwork-updates/main/bambu_dashboard.py",
   "obrigatoria": false
