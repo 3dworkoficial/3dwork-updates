@@ -1,6 +1,6 @@
 {
   "versao": "5.17",
-  "notas": "Flashforge: busca automatica na rede ou por IP",
+  "notas": "Att nova",
   "url_arquivo": "https://raw.githubusercontent.com/3dworkoficial/3dwork-updates/main/bambu_dashboard.py",
   "obrigatoria": false
 }
